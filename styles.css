@@ -11,7 +11,6 @@ h1, h2 {
   font-family: Impact, sans-serif;
 }
 
-/* Estilos para el menú principal */
 #main-menu {
   display: flex;
   flex-direction: column;
@@ -78,7 +77,7 @@ h1, h2 {
   font-family: Impact, sans-serif;
 }
 
-/* Estilos para pantallas pequeñas */
+
 @media only screen and (max-width: 768px) {
   #main-menu label, #main-menu select, #main-menu button {
     width: 80%;
